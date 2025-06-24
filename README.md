@@ -11,6 +11,7 @@ This repository contains the **Carousale** project, developed as part of a colle
 * **Navigation**: Basic navigation menus (e.g., Cars, Parts, Register, Checkout).
 
 ## Technologies Used
+* **Visual Studio Code**: The application used to create this project.
 * **HTML**: For structuring the web content.
 * **CSS**: For styling the web pages, including layout, colors, and typography.
 * **JavaScript**: For interactive elements.
